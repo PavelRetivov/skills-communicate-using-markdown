@@ -1,2 +1,9 @@
-## How it looks
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "Привіт, світ!";
+var count = 1;
+if(count > 2){
+return myVar;
+}else{
+retur 'bla'
+}
+```
